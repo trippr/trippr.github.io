@@ -4,8 +4,39 @@
         "services": "Services",
         "contact": "Contact"
     },
+    "titles":{
+        "main": "Your Dream Destinations",
+        "mainText": "Trippr will help you decide for the best place so you can plan your next trip and be sure that it will be the right destination for you!",
+        "second": "Don't know where to go during holidays?",
+        "third": "Features",
+        "download": "Free Download!",
+        "contact": "Let's Get In Touch!"
+    },
+    "content":{
+        "second": "Trippr lets you find the best travel destinations based on what you feel, what you like and what you enjoy the most. Choose the images that make you feel better and let Trippr calculate how to get there cheaply. Trippr uses state-of-the-art algorithms to calculate the cities and countries that might give you the best travel experience. It will find the cheapest flight and a cool hotel with the lowest price so you can get there soon!",
+        "download": "Be inspired with many possible destinations",
+        "contact": "For more information you can contact us!"
+    },
     "buttons":{
         "download": "Download Now!",
         "findMore": "Find Out More"
+    },
+    "services":{
+        "first":{
+            "title": "Awesome Pictures",
+            "content": "Swipe left and right to choose the images that make you feel better"
+        },
+        "second":{
+            "title": "Destination Search",
+            "content":   "Search your dream destination places"
+        },
+        "third":{
+            "title": "Flight Information",
+            "content":  "Instant travel inspiration with the cheapest flight from your nearest airport",
+        },
+        "fourth":{
+            "title": "Local Prices",
+            "content":  "Prices given in your local currency"
+        }
     }
 }
