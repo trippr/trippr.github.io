@@ -3,5 +3,9 @@
         "about": "About",
         "services": "Services",
         "contact": "Contact"
+    },
+    "buttons":{
+        "download": "Download Now!",
+        "findMore": "Find Out More"
     }
 }
